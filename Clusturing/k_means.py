@@ -9,6 +9,10 @@ import pandas as pd
 Exemple de modification avec GitHub
 '''
 
+'''
+Exemple1 de modification avec GitHub
+'''
+
 # Importer le dataset
 dataset = pd.read_csv('Mall_Customers.csv')
 X = dataset.iloc[:, [3, 4]].values
